@@ -55,3 +55,17 @@ npm test
 ## More
 
 You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+
+## 项目说明
+
+### 项目背景
+
+该项目主要是自己平时用来学习使用，借用此项目，自己开发一些练习项目，最终能够形成一个完整的系统。
+
+### 开发工具
+
+主要使用webStrom
+
+## 项目功能
+
+未完待续...
